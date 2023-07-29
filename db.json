@@ -102,6 +102,13 @@
       "password": "$2a$10$JABwR1UAtJqr2DCJ41ypMOgOqlh8eRXmTBO6DXfKG3ybxhABY4rey",
       "role": "admin",
       "id": 2
+    },
+    {
+      "email": "lilian.cardenas@bqueen.com",
+      "password": "$2a$10$.Fyvn/gZfx7u3PRUYPrDE.rs2UtPrbOCBCdivOZ9QX21IGyAsGDy.",
+      "name": "Lilian Cárdenas",
+      "role": "admin",
+      "id": 3
     }
   ]
 }

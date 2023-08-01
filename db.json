@@ -103,6 +103,30 @@
       "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/water.png",
       "type": "Almuerzo",
       "id": 5
+    },
+    {
+      "name": "Hamburguesa Doble",
+      "price": 4000,
+      "type": "Almuerzo",
+      "id": 6
+    },
+    {
+      "name": "Papas fritas",
+      "price": 2000,
+      "type": "Almuerzo",
+      "id": 7
+    },
+    {
+      "name": "Aritos de Cebolla",
+      "price": 2000,
+      "type": "Almuerzo",
+      "id": 8
+    },
+    {
+      "name": "Jugo de fruta Natural",
+      "price": 900,
+      "type": "Desayuno",
+      "id": 9
     }
   ],
   "users": [

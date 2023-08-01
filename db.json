@@ -91,8 +91,8 @@
     },
     {
       "name": "Pie de Limón",
-      "price": 1500,
-      "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/water.png",
+      "price": 700,
+      "image": "",
       "type": "Desayuno",
       "dateEntry": "",
       "id": 4
